@@ -27,17 +27,17 @@
 
 ## Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoshanSingh55&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amann-KS&theme=dark)
 
 ## Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanSingh55&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amann-KS&theme=react-dark&hide_border=true&area=true)
 
 ## GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=RoshanSingh55show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSingh55&layout=compact&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Amann-KSshow_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amann-KS&layout=compact&theme=dark)
 
 ## GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=RoshanSingh55&theme=dark&no-frame=true&column=6)
+![trophies](https://github-profile-trophy.vercel.app/?username=Amann-KS&theme=dark&no-frame=true&column=6)
